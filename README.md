@@ -6,6 +6,7 @@ stuff i make/do:
 
 - websites (sveltekit, wanna try react again with nextjs)
 - games (godot, but i also know unity)
+- minecraft mods (java)
 - web design (figma, duh)
 
 things i am trying to do:

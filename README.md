@@ -1,4 +1,4 @@
-hi, i'm 5w14.
+hi, i'm 5w14 (or max)
 
 i make small projects like games, websites and other stuff i find interesting.
 
@@ -11,7 +11,7 @@ stuff i make/do:
 
 things i am trying to do:
 
-- improve my typing speed (now around 85-100wpm)
+- improve my typing speed (now around 85-100wpm, learning dvorak)
 - learn more of neovim (i use neovim, btw)
 - make more creative things
 
@@ -20,4 +20,4 @@ things i am trying to do:
 i don't know how people make those cool graphs and stuff at the bottoms of
 their readme-s, so i'll leave it empty.
 
-P.S. I know how to use uppercase letters, I just `ggVGu`.
+P.S. I know how to use uppercase letters, I just `ggVGu` :)
